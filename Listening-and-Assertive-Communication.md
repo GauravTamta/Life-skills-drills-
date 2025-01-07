@@ -71,3 +71,9 @@ You might switch to a passive-aggressive style when:
 3. **Use "I" statements**: Say things like "I feel..." instead of blaming others.  
 4. **Listen actively**: Give others a chance to speak and understand their perspective.  
 5. **Set boundaries**: Be firm but polite when asserting your limits.  
+
+
+## References
+
+* [Active Listening-Youtube](https://youtu.be/rzsVh8YwZEQ?si=VfSk81X3ksWRB_85)
+* [4 things all great listeners know](https://youtube.com/watch?v=i3ku5nx4tMU)
